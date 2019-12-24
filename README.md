@@ -26,6 +26,3 @@ If something doesn't work, feel free to leave a comment or something and I'll tr
 Any features that just say "Under Constuction" are features I do not plan to implement. <br/>
 I am also aware of the fact that you can't view other profiles and you sometimes get the error of "Please specify a user". If I have time I will fix that.
 
-```
-live: none
-```
