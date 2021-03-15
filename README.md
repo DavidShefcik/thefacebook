@@ -11,7 +11,7 @@ The original repository for this is: https://github.com/profh/thefacebook <br/><
 5.) Start apache and mysql in xampp. <br/>
 6.) Go to PHPMyAdmin (http://127.0.0.1/phpmyadmin). <br/>
 7.) Click new in the menu on the left. <br/>
-8.) Name the datbase "thefacebook". <br/>
+8.) Name the database "thefacebook". <br/>
 9.) Click create. <br/>
 10.) Then click on the database. <br/>
 11.) Click import which is in the top bar. <br/>
